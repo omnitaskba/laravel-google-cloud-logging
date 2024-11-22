@@ -1,6 +1,6 @@
 <?php
 
-namespace Omnitask\LaravelGoogleCloudLogging;
+namespace Omnitaskba\LaravelGoogleCloudLogging;
 
 use Monolog\Logger;
 use Google\Cloud\Logging\LoggingClient;
