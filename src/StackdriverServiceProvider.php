@@ -1,6 +1,6 @@
 <?php
 
-namespace Omnitask\LaravelGoogleCloudLogging;
+namespace Omnitaskba\LaravelGoogleCloudLogging;
 
 use Illuminate\Log\LogManager;
 use Illuminate\Support\ServiceProvider;
