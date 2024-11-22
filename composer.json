@@ -1,5 +1,5 @@
 {
-    "name": "superchairon/laravel-google-cloud-logging",
+    "name": "omnitaskba/laravel-google-cloud-logging",
     "description": "A Google Cloud Logging system for Laravel",
     "type": "library",
     "require": {
