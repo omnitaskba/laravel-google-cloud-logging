@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "SuperChairon\\LaravelGoogleCloudLogging\\": "src/"
+            "Omnitaskba\\LaravelGoogleCloudLogging\\": "src/"
         }
     },
     "extra": {
