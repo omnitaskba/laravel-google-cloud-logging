@@ -22,7 +22,7 @@
     "extra": {
       "laravel": {
         "providers": [
-          "SuperChairon\\LaravelGoogleCloudLogging\\StackdriverServiceProvider"
+          "Omnitaskba\\LaravelGoogleCloudLogging\\StackdriverServiceProvider"
         ]
       }
     }
