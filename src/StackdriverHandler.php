@@ -38,7 +38,7 @@ class StackdriverHandler extends AbstractProcessingHandler
     /**
      * Writes the record down to the log of the implementing handler
      */
-    protected function write(array $record): void
+    protected function write(Monolog\LogRecord $record): void
     {
         // set options, according to Google Stackdirver API documentation
         $options = [
